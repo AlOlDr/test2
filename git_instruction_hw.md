@@ -63,3 +63,8 @@
 
     git branch <branch name>
     
+## Удаление веток
+
+Для удаления ветки используется команда:
+
+    git branch -d <branch name>
